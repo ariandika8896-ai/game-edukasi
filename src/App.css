@@ -1,9 +1,3 @@
-/* ==========================================================================
-   Petualangan Bangun Datar - Full Game Flow Styling
-   Screens: 1. Beranda | 2. Level Detail (Peta) | 3. Eksplorasi | 4. Soal | 5. Hasil
-   ========================================================================== */
-
-/* Desktop App Container & Frame */
 .desktop-wrapper {
   display: flex;
   flex-direction: column;
